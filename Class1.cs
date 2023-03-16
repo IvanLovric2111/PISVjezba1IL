@@ -8,6 +8,10 @@ namespace PISVjezba1
 {
     class Class1
     {
-        //Metoda
+        //Metoda2
+        int metoda1()
+        {
+            return 2;
+        }
     }
 }
