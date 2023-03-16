@@ -9,5 +9,8 @@ namespace PISVjezba1
     class Class1
     {
         //Metoda2
+        int metoda1(){
+            return 1;
+        }
     }
 }
